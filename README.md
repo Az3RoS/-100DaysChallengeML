@@ -3,10 +3,10 @@
 ## Introduction
 Everyone is going crazy these days, hearing the words Machine Learning, Deep Learning and Data Science. Well, it is certainly no Astrophysics with so many successful stories all around the web of people pursuing a career in this field. So why not dive into it a bit. It maybe vast, but what can happen. I mean, I won't drown right. Let's fill the apetite of our curious mind.
 
-There are some wonderful articles, you can check for a better understanding of the subject. This one caught my eye though, hope it helps! [Why Machine Learning?] (https://www.simplilearn.com/what-is-machine-learning-and-why-it-matters-article)
+There are some wonderful articles, you can check for a better understanding of the subject. This one caught my eye though, hope it helps! [Why Machine Learning?](https://www.simplilearn.com/what-is-machine-learning-and-why-it-matters-article)
 
 
-I am taking on the 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell). I have to mention certain people who have been a great source of inspiration with their articles and some awsome inforgraphics - [Avik Jain] (https://github.com/Avik-Jain/100-Days-Of-ML-Code) and [Harshit Ahluwalia] (https://github.com/harshitahluwalia7895/100DaysOfMLCode).
+I am taking on the 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell). I have to mention certain people who have been a great source of inspiration with their articles and some awsome inforgraphics - [Avik Jain](https://github.com/Avik-Jain/100-Days-Of-ML-Code) and [Harshit Ahluwalia](https://github.com/harshitahluwalia7895/100DaysOfMLCode).
 
 ## Rules
 I have setup 2 rules for myself - 
