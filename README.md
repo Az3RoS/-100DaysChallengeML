@@ -1,5 +1,9 @@
 # #100DaysChallengeML
 
+<p align="left">
+  <img src="https://image.freepik.com/free-vector/machine-learning-infographic_35632-101.jpg">
+</p>
+
 ## Introduction
 Everyone is going crazy these days, hearing the words Machine Learning, Deep Learning and Data Science. Well, it is certainly no Astrophysics with so many successful stories all around the web of people pursuing a career in this field. So why not dive into it a bit. It maybe vast, but what can happen. I mean, I won't drown right. Let's fill the apetite of our curious mind.
 
