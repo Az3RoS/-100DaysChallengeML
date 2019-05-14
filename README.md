@@ -12,12 +12,29 @@ There are some wonderful articles, you can check for a better understanding of t
 
 I am taking on the 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell). I have to mention certain people who have been a great source of inspiration with their articles and some awsome inforgraphics - [Avik Jain](https://github.com/Avik-Jain/100-Days-Of-ML-Code) and [Harshit Ahluwalia](https://github.com/harshitahluwalia7895/100DaysOfMLCode).
 
-## Rules
-I have setup 2 rules for myself - 
-1. Code minimum an hour every day for the next 100 days
-2. Update github regularly
-
 So, let's start with a battle cry!
+
+## Day - 0
+
+Planning and collecting materials to begin with covered most of the day.  I have all set up and ready to roll.
+
+## Day - 1
+
+I came across this blog which explained the fundamentals of Python in a simple way. With some basic programming knowledge, you will just cruise through. 
+
+1.[Python 101: The Basics](https://medium.com/the-renaissance-developer/python-101-the-basics-441136fb7cc3)
+2.[Python 101: Data Structures](https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2bd30)
+3.[Python 101: Object Oriented Programming part 1](https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-1-7d5d06833f26)
+4.[Python 101: Object Oriented Programming part 2](https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-2-8e0db3ddd531)
+
+This 4-Part series explains it clearly.
+However, if you need in-depth knowledge of Python, here's another article you can refer.[In-Depth](https://www.geeksforgeeks.org/python-basics/)
+
+There are some wonder functions in Python. I will make an article on it soon.
+
+## Day - 2
+
+Coming soon --
 
 ## Plan
 This is my initial plan. It is subject to many many modifications.
