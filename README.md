@@ -22,17 +22,17 @@ Planning and collecting materials to begin with covered most of the day.  I have
 
 I came across this blog which explained the fundamentals of Python in a simple way. With some basic programming knowledge, you will just cruise through. 
 
-1.[Python 101: The Basics](https://medium.com/the-renaissance-developer/python-101-the-basics-441136fb7cc3)
+1. [Python 101: The Basics](https://medium.com/the-renaissance-developer/python-101-the-basics-441136fb7cc3)
 
-2.[Python 101: Data Structures](https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2bd30)
+2. [Python 101: Data Structures](https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2bd30)
 
-3.[Python 101: Object Oriented Programming part 1](https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-1-7d5d06833f26)
+3. [Python 101: Object Oriented Programming part 1](https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-1-7d5d06833f26)
 
-4.[Python 101: Object Oriented Programming part 2](https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-2-8e0db3ddd531)
+4. [Python 101: Object Oriented Programming part 2](https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-2-8e0db3ddd531)
 
 
 This 4-Part series explains it clearly.
-However, if you need in-depth knowledge of Python, here's another article you can refer.[In-Depth](https://www.geeksforgeeks.org/python-basics/)
+However, if you need in-depth knowledge of Python, here's another article you can refer. [In-Depth](https://www.geeksforgeeks.org/python-basics/)
 
 There are some wonder functions in Python. I will make an article on it soon.
 
