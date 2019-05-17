@@ -20,7 +20,7 @@ Planning and collecting materials to begin with covered most of the day.  I have
 
 ## Day - 1
 
-I came across this blog which explained the fundamentals of Python in a simple way. With some basic programming knowledge, you will just cruise through. 
+I came across this blog which explained the fundamentals of Python in a simple way. With some basic programming knowledge, it will be a stroll in the park. 
 
 1. [Python 101: The Basics](https://medium.com/the-renaissance-developer/python-101-the-basics-441136fb7cc3)
 
@@ -37,6 +37,14 @@ However, if you need in-depth knowledge of Python, here's another article you ca
 There are some wonder functions in Python. I will make an article on it soon.
 
 ## Day - 2
+
+I ventured a bit into the intermediate and advanced areas of python. As python covers a huge span, I had to take each step carefully else there was a probability of getting lost in its vastness. These are some articles which might help you as well.
+1. [Python Step-by-Step](https://www.techbeamers.com/python-tutorial-step-by-step/)
+2. [Python Beginner 2 Advanced](https://data-flair.training/blogs/python-tutorials-home/)
+
+Hope you are enjoying the things so far. There are some topics you might want to focus a bit more - List comprehensions and Lambda Expressions. They will come in handy while you move to the Advanced level.
+
+## Day - 3
 
 Coming soon --
 
