@@ -32,7 +32,7 @@ I came across this blog which explained the fundamentals of Python in a simple w
 
 
 This 4-Part series explains it clearly.
-However, if you need in-depth knowledge of Python, here's another article you can refer. [In-Depth](https://www.geeksforgeeks.org/python-basics/)
+However, if you need in-depth knowledge of Python, here's another article you can refer - [Python in Depth](https://www.geeksforgeeks.org/python-basics/)
 
 There are some wonder functions in Python. I will make an article on it soon.
 
@@ -50,7 +50,7 @@ Linear Algebra is a key foundation to the field of machine learning, from notati
 
 So let's start with the basics -
 1. [Basics of Linear Algebra 1](https://towardsdatascience.com/linear-algebra-for-deep-learning-f21d7e7d7f23)
-2. [Basics of Linear Algebra 2](https://ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html). 
+2. [Basics of Linear Algebra 2](https://ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html)
 
 This will give you a brief idea of the concepts. Once you get an overview of the things, let us quickly jump into the things we are going to need for our course.
 1. [Linear Algebra Review using Python](https://web.stanford.edu/class/cs231a/section/section1.pdf)
