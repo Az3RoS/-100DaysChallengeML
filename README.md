@@ -62,10 +62,28 @@ Alternatively, if you want to deep dive into the concepts of Linear Algebra, you
 * [Linear Algebra and Its Applications -  A book by David Lay](http://www.r-5.org/files/books/computers/algo-list/linear-algebra/David_Lay-Linear_Algebra_and_Its_Applications-EN.pdf)
 * [Khan Academy Linear Algebra](http://www.khanacademy.org/math/algebra/algebra-matrices)
 * [Immersive Math](http://immersivemath.com/ila/index.html)
+* [Linear Algebra - Conceptual Approach](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 These are few notable tutorials among other good ones.
 
 ## Day - 4
+
+The probability that you are wondering whether to pursue this course seems to be high. Well, life is full of hurdles and this is just one of them. If I can do it, you can do it as well.
+
+Let's cheer up a bit. [Watch this!](https://youtu.be/LmMZj7599pw)
+
+Now as you seem to be all refreshed and geared up, let's continue.
+Next up, we will learn the basic concepts of Statistics and Probability.
+
+1. [Basic Probability](https://seeing-theory.brown.edu/basic-probability/index.html)
+2. [Basic Statistics](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291)
+3. [Basic Probability & Statistics Review](https://towardsdatascience.com/machine-learning-probability-statistics-f830f8c09326)
+
+For more reference, these are quite good -
+* [Think Stats](http://greenteapress.com/thinkstats2/html/thinkstats2003.html)
+* [Probability Cheatsheet](https://github.com/wzchen/probability_cheatsheet/blob/master/probability_cheatsheet_blackwhite.pdf)
+
+## Day - 5
 
 Coming soon --
 
