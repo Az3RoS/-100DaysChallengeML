@@ -46,6 +46,22 @@ Hope you are enjoying the things so far. There are some topics you might want to
 
 ## Day - 3
 
+Linear Algebra is a key foundation to the field of machine learning, from notations used to describe the operation of algorithms to the implementation of algorithms in code. The concepts of Linear Algebra are crucial for understanding the theory behind Machine Learning, especially for Deep Learning. They give you better intuition for how algorithms really work under the hood, which enables you to make better decisions.
+
+So let's start with the basics -
+1. [Basics of Linear Algebra 1](https://towardsdatascience.com/linear-algebra-for-deep-learning-f21d7e7d7f23)
+2. [Basics of Linear Algebra 2](https://ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html). 
+
+This will give you a brief idea of the concepts. Once you get an overview of the things, let us quickly jump into the things we are going to need for our course.
+1. [Linear Algebra Review using Python](https://web.stanford.edu/class/cs231a/section/section1.pdf)
+2. [Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear-algebra-cheat-sheet-for-machine-learning/)
+
+Please bookmark this [Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf). It will come handy at a later time.
+
+Alternatively, if you want to deep dive into the concepts of Linear Algebra, you can refer this awsome course at [Khan Academy](http://www.khanacademy.org/math/algebra/algebra-matrices)
+
+## Day - 4
+
 Coming soon --
 
 ## Plan
