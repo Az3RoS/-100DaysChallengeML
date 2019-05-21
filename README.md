@@ -56,9 +56,14 @@ This will give you a brief idea of the concepts. Once you get an overview of the
 1. [Linear Algebra Review using Python](https://web.stanford.edu/class/cs231a/section/section1.pdf)
 2. [Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear-algebra-cheat-sheet-for-machine-learning/)
 
-Please bookmark this [Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf). It will come handy at a later time.
+Please bookmark this [Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf). It will help you through tough days of remembering formulas.
 
-Alternatively, if you want to deep dive into the concepts of Linear Algebra, you can refer this awsome course at [Khan Academy](http://www.khanacademy.org/math/algebra/algebra-matrices)
+Alternatively, if you want to deep dive into the concepts of Linear Algebra, you can refer the following -
+* [Linear Algebra and Its Applications -  A book by David Lay](http://www.r-5.org/files/books/computers/algo-list/linear-algebra/David_Lay-Linear_Algebra_and_Its_Applications-EN.pdf)
+* [Khan Academy Linear Algebra](http://www.khanacademy.org/math/algebra/algebra-matrices)
+* [Immersive Math](http://immersivemath.com/ila/index.html)
+
+These are few notable tutorials among other good ones.
 
 ## Day - 4
 
