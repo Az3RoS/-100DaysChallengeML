@@ -5,12 +5,21 @@
 </p>
 
 ## Introduction
-Everyone is going crazy these days, hearing the words Machine Learning, Deep Learning and Data Science. Well, it is certainly no Astrophysics with so many successful stories all around the web of people pursuing a career in this field. So why not dive into it a bit. It maybe vast, but what can happen. I mean, I won't drown right. Let's fill the apetite of our curious mind.
+Are you ready for your Winter? 
+Literally speaking, AI is taking over the world like a storm. You need to prep yourselves before its too late. Knowledge is the key here and the ones that will help you are Machine Learning and Data Science.
+
+Machine learning was defined in 90's by Arthur Samuel as, "it is a field of study that gives the ability to the computer for self-learn without being explicitly programmed", that means imbuing knowledge to machines without hard-coding it. Data science, in its most basic terms, can be defined as obtaining insights and information, really anything of value, out of data. 
+
+Alternatively, it can be said that, "A computer program is said to learn from experience E with some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with experience E." -Tom M. Mitchell
+
+Machine Learning is being extensively used in Face detection, Email filtering, Medical diagnosis, Weather prediction, Product Recommendation and Gaming, among other things.
 
 There are some wonderful articles, you can check for a better understanding of the subject. This one caught my eye though, hope it helps! [Why Machine Learning?](https://www.simplilearn.com/what-is-machine-learning-and-why-it-matters-article)
 
 
-I am taking on the 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell). I have to mention certain people who have been a great source of inspiration with their articles and some awsome inforgraphics - [Avik Jain](https://github.com/Avik-Jain/100-Days-Of-ML-Code) and [Harshit Ahluwalia](https://github.com/harshitahluwalia7895/100DaysOfMLCode).
+I am taking on the 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell). Do you want to take the journey with me. It will be fun. 
+
+I have to mention certain people who have been a great source of inspiration with their articles and some awsome inforgraphics - [Avik Jain](https://github.com/Avik-Jain/100-Days-Of-ML-Code) and [Harshit Ahluwalia](https://github.com/harshitahluwalia7895/100DaysOfMLCode).
 
 So, let's start with a battle cry!
 
@@ -26,9 +35,13 @@ I came across this blog which explained the fundamentals of Python in a simple w
 
 2. [Python 101: Data Structures](https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2bd30)
 
-3. [Python 101: Object Oriented Programming part 1](https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-1-7d5d06833f26)
+## Day - 2
 
-4. [Python 101: Object Oriented Programming part 2](https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-2-8e0db3ddd531)
+I had to segragate this part, not because the latter is tough but to give time to the initial segments of Python and that means more practice.
+
+1. [Python 101: Object Oriented Programming part 1](https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-1-7d5d06833f26)
+
+2. [Python 101: Object Oriented Programming part 2](https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-2-8e0db3ddd531)
 
 
 This 4-Part series explains it clearly.
@@ -36,7 +49,16 @@ However, if you need in-depth knowledge of Python, here's another article you ca
 
 There are some wonder functions in Python. I will make an article on it soon.
 
-## Day - 2
+## Day - 3
+
+Practice some more programming here. This will help build a strong foundation.
+Here are some [SAMPLE](https://github.com/OmkarPathak/Python-Programs) programs. You can refer them and do on your own. If it's a bit tough you can start with writing the programs as coded. Please do not copy paste. This is because writing them even though referencing helps as well. Once you get a grip on them, start modifying them.
+
+## Day - 4
+
+Continue from the previous day. Practice! Practice!
+
+## Day - 5
 
 I ventured a bit into the intermediate and advanced areas of python. As python covers a huge span, I had to take each step carefully else there was a probability of getting lost in its vastness. These are some articles which might help you as well.
 1. [Python Step-by-Step](https://www.techbeamers.com/python-tutorial-step-by-step/)
@@ -44,7 +66,15 @@ I ventured a bit into the intermediate and advanced areas of python. As python c
 
 Hope you are enjoying the things so far. There are some topics you might want to focus a bit more - List comprehensions and Lambda Expressions. They will come in handy while you move to the Advanced level.
 
-## Day - 3
+## Day - 6
+
+Practice some more programming, continuing from Day 4. Rather, an idea came into mind. Let's try to implement list comprehension and lambda expression on all the programs we wrote previously.
+
+## Day - 7
+
+A retrospective or a rest day. We will try to recapitulate the things we did so far. You can use it for any part you missed or even any segment that you need to read again for better understanding.
+
+## Day - 8
 
 Linear Algebra is a key foundation to the field of machine learning, from notations used to describe the operation of algorithms to the implementation of algorithms in code. The concepts of Linear Algebra are crucial for understanding the theory behind Machine Learning, especially for Deep Learning. They give you better intuition for how algorithms really work under the hood, which enables you to make better decisions.
 
@@ -52,21 +82,26 @@ So let's start with the basics -
 1. [Basics of Linear Algebra 1](https://towardsdatascience.com/linear-algebra-for-deep-learning-f21d7e7d7f23)
 2. [Basics of Linear Algebra 2](https://ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html)
 
-This will give you a brief idea of the concepts. Once you get an overview of the things, let us quickly jump into the things we are going to need for our course.
+## Day - 9
+
+Now that we have a brief idea of the concepts, let us quickly jump into the things we are going to need for our course.
 1. [Linear Algebra Review using Python](https://web.stanford.edu/class/cs231a/section/section1.pdf)
 2. [Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear-algebra-cheat-sheet-for-machine-learning/)
 
 Please bookmark this [Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf). It will help you through tough days of remembering formulas.
 
+## Day - 10
+
+I will give one more day here. If anything left, you can go through again.
 Alternatively, if you want to deep dive into the concepts of Linear Algebra, you can refer the following -
 * [Linear Algebra and Its Applications -  A book by David Lay](http://www.r-5.org/files/books/computers/algo-list/linear-algebra/David_Lay-Linear_Algebra_and_Its_Applications-EN.pdf)
 * [Khan Academy Linear Algebra](http://www.khanacademy.org/math/algebra/algebra-matrices)
 * [Immersive Math](http://immersivemath.com/ila/index.html)
 * [Linear Algebra - Conceptual Approach](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-These are few notable tutorials among other good ones.
+These are few notable tutorials among other good ones. 
 
-## Day - 4
+## Day - 11
 
 The probability that you are wondering whether to pursue this course seems to be high. Well, life is full of hurdles and this is just one of them. If I can do it, you can do it as well.
 
@@ -83,13 +118,14 @@ For more reference, these are quite good -
 * [Think Stats](http://greenteapress.com/thinkstats2/html/thinkstats2003.html)
 * [Probability Cheatsheet](https://github.com/wzchen/probability_cheatsheet/blob/master/probability_cheatsheet_blackwhite.pdf)
 
-## Day - 5
+## Day - 12
 
 Coming soon --
 
 ## Plan
 This is my initial plan. It is subject to many many modifications.
 
+<script>
 Crash course Python – Basic – 1 day
 Article - https://github.com/harunshimanto/100-Days-Of-ML-Code/tree/master/A%203%20day%20Python%20Bootcamp%20for%20ML%20Beginners
 Code - https://www.learnpython.org/
@@ -140,3 +176,5 @@ Reference –
 https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
 https://github.com/harunshimanto/100-Days-Of-ML-Code
 https://github.com/coells/100days
+
+</script>
