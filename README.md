@@ -120,7 +120,7 @@ For more reference, these are quite good -
 
 ## Day - 12-22
 
-**[Machine Learning](https://github.com/Az3RoS/-100DaysChallengeML/blob/master/Machine%20Learning/README.md).** Finally!! The log wait is here and we can jump straight into it.
+**[Machine Learning](https://github.com/Az3RoS/-100DaysChallengeML/blob/master/Machine%20Learning/README.md).** Finally!! The long wait is here and we can jump straight right into it.
 
 ## Day - 23
 
