@@ -10,8 +10,7 @@ This implies that the tasks in which machine learning is concerned offers a fund
 
 Within the field of data analytics, machine learning is used to devise complex models and algorithms that allow researchers, data scientists, engineers, and analysts to “produce reliable, repeatable decisions and results” and uncover “hidden insights” through learning from historical relationships and trends in the data set(input).
 
-### Basic Difference in ML and Traditional Programming?
-
+### Basic Difference in Machine Learning and Traditional Programming?
 * **Traditional Programming :** We feed in DATA (Input) + PROGRAM (logic), run it on machine and get output.
 * **Machine Learning :** We feed in DATA(Input) + Output, run it on machine during training and the machine creates its own program(logic), which can be evaluated while testing.
 
@@ -47,4 +46,58 @@ Some other interesting uses are -
 * **Data Mining / Big Data:** Data Mining and Big Data are just manifestations of studying and learning from data at a larger scale and you’ll find Machine Learning lurking nearby.
 * **Stock Market/Housing Finance/Real Estate:** In order to better assess the market, namely “Regression Techniques”, for things as mediocre as predicting the price of a House, to predicting and analyzing stock market trends.
 
+<p align="center">
+  <img src="https://www.edureka.co/blog/wp-content/uploads/2018/03/Use-Case-What-is-Machine-Learning-Edureka-528x285.png">
+</p>
 Well did that peak your interest? There's more to come. Just the tip of the iceberg.
+
+
+Let us begin then.
+
+### How does Machine Learning Work?
+Machine Learning algorithm is trained using a training data set to create a model. When new input data is introduced to the ML algorithm, it makes a prediction on the basis of the model.
+
+The prediction is evaluated for accuracy and if the accuracy is acceptable, the Machine Learning algorithm is deployed. If the accuracy is not acceptable, the Machine Learning algorithm is trained again and again with an augmented training data set.
+
+This is a basic workflow model from Edureka, as there are many other steps involved. But this one will do just fine to begin with.
+
+<p align="center">
+  <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/03/How-Machine-Learning-Works-What-is-Machine-Learning-Edureka-1.gif">
+</p>
+
+### Types of Machine Learning
+**Machine learning** is an umbrella term covering lots of algorithms. It is sub-categorized to three types:
+
+* **Supervised Learning** – _"Train Me!"_
+* **Unsupervised Learning** – _"I am self sufficient in learning_"
+* **Reinforcement Learning** – _"My life My rules! (Hit & Trial)"_
+
+<p align="center">
+  <img src="https://miro.medium.com/max/700/0*QYxNNYh6W9jO1b_-.png">
+</p>
+
+### Supervised Learning
+Let’s say you are a real estate agent. Your business is growing, so you hire a bunch of new trainee agents to help you out. But there’s a problem — you can glance at a house and have a pretty good idea of what a house is worth, but your trainees don’t have your experience so they don’t know how to price their houses.
+To help your trainees (and maybe free yourself up for a vacation), you decide to write a little app that can estimate the value of a house in your area based on it’s size, neighborhood, etc, and what similar houses have sold for.
+So you write down every time someone sells a house in your city for 3 months. For each house, you write down a bunch of details — number of bedrooms, size in square feet, neighborhood, etc. But most importantly, you write down the final sale price:
+
+| Bedrooms | Sq. feet | Neighborhood   | Sale Price |
+| -------- | -------- | -------------- | ----------:|
+| 3        | 2000     | *Metropolis*   | $250,000   |
+| 2        | 2000     | *Gotham*       | $350,000   |
+| 2        | 2000     | *Star City*    | $150,000   |
+| 1        | 2000     | *Central City* | $78,000    |
+| 4        | 2000     | *Blüdhaven*    | $150,000   |
+
+Using that training data, we want to create a program that can estimate how much any other house in your area is worth:
+
+| Bedrooms | Sq. feet | Neighborhood   | Sale Price |
+| -------- | -------- | -------------- | ----------:|
+| 3        | 2000     | *SmallVille*   | ???        |
+
+This is called supervised learning. You knew how much each house sold for, so in other words, you knew the answer to the problem and could work backwards from there to figure out the logic. You feed your training data about each house into your machine learning algorithm. The algorithm is trying to figure out what kind of math needs to be done to make the numbers work out.
+
+In **Supervised Learning**, you are letting the computer work out that relationship for you. And once you know what math was required to solve this specific set of problems, you could answer to any other problem of the same type!
+
+
+### Unsupervised Learning
