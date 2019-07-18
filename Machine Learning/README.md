@@ -12,5 +12,11 @@ Within the field of data analytics, machine learning is used to devise complex m
 
 ### Basic Difference in ML and Traditional Programming?
 
-* Traditional Programming : We feed in DATA (Input) + PROGRAM (logic), run it on machine and get output.
-* Machine Learning : We feed in DATA(Input) + Output, run it on machine during training and the machine creates its own program(logic), which can be evaluated while testing.
+* **Traditional Programming :** We feed in DATA (Input) + PROGRAM (logic), run it on machine and get output.
+* **Machine Learning :** We feed in DATA(Input) + Output, run it on machine during training and the machine creates its own program(logic), which can be evaluated while testing.
+
+Now, you might be wondering whether Data science, analytics, and machine learning are all the same. Well there have their own way of doing things but to simply draw a line between them, let us look at the infographic.
+
+<p align="center">
+  <img src="https://www.simplilearn.com/ice9/article_detailed_content_img/data-science-data-analytics-machine-learning.jpg" alt="Pic Courtesy of Simplilearn">
+</p>
