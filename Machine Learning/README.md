@@ -2,7 +2,7 @@
 
 Machine Learning is the field of study that gives computers the capability to learn without being explicitly programmed. 
 
-Alt-**_"The ability to learn"_** - for a machine, seems pretty intersting, huh!
+**_"The ability to learn"_** - for a machine, seems pretty intersting, huh!
 =========================
 
 Let’s try to understand Machine Learning in layman terms. Consider you are trying to toss a paper to a dustbin.
@@ -11,7 +11,7 @@ This implies that the tasks in which machine learning is concerned offers a fund
 
 Within the field of data analytics, machine learning is used to devise complex models and algorithms that allow researchers, data scientists, engineers, and analysts to “produce reliable, repeatable decisions and results” and uncover “hidden insights” through learning from historical relationships and trends in the data set(input).
 
-###Basic Difference in ML and Traditional Programming?
+### Basic Difference in ML and Traditional Programming?
 
-..*Traditional Programming : We feed in DATA (Input) + PROGRAM (logic), run it on machine and get output.
-..*Machine Learning : We feed in DATA(Input) + Output, run it on machine during training and the machine creates its own program(logic), which can be evaluated while testing.
+*Traditional Programming : We feed in DATA (Input) + PROGRAM (logic), run it on machine and get output.
+*Machine Learning : We feed in DATA(Input) + Output, run it on machine during training and the machine creates its own program(logic), which can be evaluated while testing.
