@@ -99,5 +99,19 @@ This is called supervised learning. You knew how much each house sold for, so in
 
 In **Supervised Learning**, you are letting the computer work out that relationship for you. And once you know what math was required to solve this specific set of problems, you could answer to any other problem of the same type!
 
+So to be more specific, _"Supervised learning is the Data mining task of inferring a function from **labeled** training data."_
 
 ### Unsupervised Learning
+In the previous example with the real estate agent, what if you didn’t know the sale price for each house? Even if all you know is the size, location, etc of each house, it turns out you can still do some really cool stuff. This is called **Unsupervised learning**.
+
+_"Unsupervised learning is a branch of machine learning that learns from test data that has not been **labeled, classified or categorized**."_
+
+Unsupervised machine learning helps to uncover previously unknown patterns in data. Most of the data we have today is unlabelled data. So this field of study is growing by a bit every day. The main difference between the two types is that supervised learning is done using a ground truth, or in other words, we have prior knowledge of what the output values for our samples should be. Therefore, the goal of supervised learning is to learn a function that, given a sample of data and desired outputs, best approximates the relationship between input and output observable in the data. Unsupervised learning, on the other hand, does not have labeled outputs, so its goal is to infer the natural structure present within a set of data points.
+
+But if we represent the same in a picture, how would it be? Let's see for ourselves!
+
+<p align="center">
+  <img src="https://dataaspirant.files.wordpress.com/2014/09/george-clooney5.png">
+</p>
+
+
