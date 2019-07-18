@@ -76,6 +76,7 @@ This is a basic workflow model from Edureka, as there are many other steps invol
   <img src="https://miro.medium.com/max/700/0*QYxNNYh6W9jO1b_-.png">
 </p>
 
+
 ### Supervised Learning
 Let’s say you are a real estate agent. Your business is growing, so you hire a bunch of new trainee agents to help you out. But there’s a problem — you can glance at a house and have a pretty good idea of what a house is worth, but your trainees don’t have your experience so they don’t know how to price their houses.
 To help your trainees (and maybe free yourself up for a vacation), you decide to write a little app that can estimate the value of a house in your area based on it’s size, neighborhood, etc, and what similar houses have sold for.
@@ -101,6 +102,8 @@ In **Supervised Learning**, you are letting the computer work out that relations
 
 So to be more specific, _"Supervised learning is the Data mining task of inferring a function from **labeled** training data."_
 
+
+
 ### Unsupervised Learning
 In the previous example with the real estate agent, what if you didn’t know the sale price for each house? Even if all you know is the size, location, etc of each house, it turns out you can still do some really cool stuff. This is called **Unsupervised learning**.
 
@@ -115,3 +118,23 @@ But if we represent the same in a picture, how would it be? Let's see for oursel
 </p>
 
 
+### Reinforcement Learning
+Reinforcement Learning is a type of Machine Learning which allows machines and software agents to automatically determine the ideal behaviour within a specific context, in order to maximize its performance.
+
+The agent learns to achieve a goal by interacting with its environment. The agent receives rewards by performing correctly and penalties for performing incorrectly. The agent learns without intervention from a human and its goal is to maximize the total reward.
+
+Getting a bit confusing? Let’s put a robot mouse in a maze.
+The easiest context in which to think about reinforcement learning is in games with a clear objective and a point system.
+Say we’re playing a game where our mouse is seeking the ultimate reward of cheese at the end of the maze (+1000 points), or the lesser reward of water along the way (+10 points). Meanwhile, robo-mouse wants to avoid locations that deliver an electric shock (-100 points).
+
+<p align="center">
+  <img src="https://pbs.twimg.com/media/DVRkSAhVAAAlceR.jpg:large">
+</p>
+
+We will discuss in details later. But here are few examples till date -
+
+<p align="center">
+  <img src="https://miro.medium.com/max/1400/1*-mnyrNMXcCoqAj5svDpoXg.png">
+</p>
+
+So that was all an overview of things to come. Next, we will learn about the various algorithms under them.
