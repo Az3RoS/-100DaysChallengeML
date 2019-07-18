@@ -118,7 +118,11 @@ For more reference, these are quite good -
 * [Think Stats](http://greenteapress.com/thinkstats2/html/thinkstats2003.html)
 * [Probability Cheatsheet](https://github.com/wzchen/probability_cheatsheet/blob/master/probability_cheatsheet_blackwhite.pdf)
 
-## Day - 12
+## Day - 12-22
+
+**[Machine Learning](https://github.com/Az3RoS/-100DaysChallengeML/blob/master/Machine%20Learning/README.md).** Finally!! The log wait is here and we can jump straight into it.
+
+## Day - 23
 
 Coming soon --
 
