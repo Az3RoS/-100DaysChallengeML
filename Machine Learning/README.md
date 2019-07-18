@@ -104,6 +104,7 @@ So to be more specific, _"Supervised learning is the Data mining task of inferri
 
 
 
+
 ### Unsupervised Learning
 In the previous example with the real estate agent, what if you didn’t know the sale price for each house? Even if all you know is the size, location, etc of each house, it turns out you can still do some really cool stuff. This is called **Unsupervised learning**.
 
@@ -116,6 +117,8 @@ But if we represent the same in a picture, how would it be? Let's see for oursel
 <p align="center">
   <img src="https://dataaspirant.files.wordpress.com/2014/09/george-clooney5.png">
 </p>
+
+
 
 
 ### Reinforcement Learning
@@ -136,5 +139,8 @@ We will discuss in details later. But here are few examples till date -
 <p align="center">
   <img src="https://miro.medium.com/max/1400/1*-mnyrNMXcCoqAj5svDpoXg.png">
 </p>
+
+
+There is a playlist of videos from [Simplilearn](https://www.youtube.com/watch?v=ukzFI9rgwfU&list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy). You can have a look at them. They have explained it in simple terms.
 
 So that was all an overview of things to come. Next, we will learn about the various algorithms under them.
