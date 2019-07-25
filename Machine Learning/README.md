@@ -153,8 +153,7 @@ We will start with a basic process flow and evolve as we progress.
 So for starters lets say, Machine learning comprises of the following steps,
 * **Data Collection:** The very first and the most important step is to collect relevant data corresponding to our problem statement. Accurate data collection is essential to maintaining the integrity of our machine learning project. The data set can be collected from various sources such as a file, database, sensor and many other such sources. We can also use some free data sets which are present on the internet. [Kaggle](http://www.kaggle.com) and [UCI Machine learning Repository](https://archive.ics.uci.edu/ml/index.php) are the two most-used repositories for practicing Machine Learning models.
 
-* **Data Pre-Processing:** The next step requires you to understand the input features and the desired output. This is done with the help of **Exploratory Data Analysis(EDA)**. We will dwell into its details in due time. However, just know that EDA is the process of using statistical tools(such as graphs, measures of center and variatian) to investigate datasets in order to understand their importatant characteristics. 
-Well now you have an idea of what to do. But, the collected data cannot be used directly for performing the analysis process as there might be a lot of missing data, extremely large values, unorganized text data or noisy data. Taking care of all the inconsistencies, errors and missing data in our dataset and converting it to a small clean dataset is called as data pre-processing. Please note that the data is categorized as -**Numeric** (income, age), **Categorical** (gender, nationality) and **Ordinal** (low/medium/high).
+* **Data Pre-Processing:** The collected data cannot be used directly for performing the analysis process as there might be a lot of missing data, extremely large values, unorganized text data or noisy data. Taking care of all the inconsistencies, errors and missing data in our dataset and converting it to a small clean dataset is called as data pre-processing. Please note that the data is categorized as -**Numeric** (income, age), **Categorical** (gender, nationality) and **Ordinal** (low/medium/high).
 These are some of the basic pre — processing techniques that can be used to convert raw data:
     * **Conversion of data:** As we know that Machine Learning models can only handle numeric features, hence categorical and ordinal data must  be somehow converted into numeric features.
     * **Ignoring the missing values:** Whenever we encounter missing data in the data set then we can remove the row or column of data depending on our need. This method is known to be efficient but it shouldn’t be performed if there are a lot of missing values in the dataset.
@@ -168,6 +167,8 @@ According to a survey in [Forbes](https://www.forbes.com/sites/gilpress/2016/03/
 <p align="center">
   <img src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fgilpress%2Ffiles%2F2016%2F03%2FTime-1200x511.jpg">
 </p>
+
+The above mentioned steps data collection and pre-processing fall under the umbrella of **Exploratory Data Analysis(EDA)**. We will dwell into its details in due time. However, just know that EDA is the process of using statistical tools(such as graphs, measures of center and variatian) to investigate datasets in order to understand their important characteristics.
      
 * **Model Training:** The pre-processed data is first divided into mainly two parts i.e. training and testing datasets in the train/test ratio of usually 70/30 or 80/20 for smaller datasets. Model training is the process by which a machine learning algorithm takes insights from the training dataset and learns specific parameters over the training period that will minimize the loss or how bad it performs on the training dataset. You can also train the classifier using training data set, tune the parameters using validation set and then test the performance of your classifier on unseen test data set. 
 
@@ -175,7 +176,7 @@ According to a survey in [Forbes](https://www.forbes.com/sites/gilpress/2016/03/
   <img src="https://miro.medium.com/max/700/1*kpqurK-46RQxCllffLgM3w.png">
 </p>
 
-This is a good practice.
+This is a good practice to divide the data set as:
     * **Training set:** The training set is the material through which the computer learns how to process information. Machine learning uses algorithms to perform the training part. A set of data used for learning, that is to fit the parameters of the classifier.
     * **Validation set:** Cross-validation is primarily used in applied machine learning to estimate the skill of a machine learning model on unseen data. A set of unseen data is used from the training data to tune the parameters of a classifier.
     * **Test set:** A set of unseen data used only to assess the performance of a fully-specified classifier.
@@ -201,3 +202,4 @@ Some of the most common evaluation metrics are Accuracy score, F1 Score, Mean Ab
 
 
 Without further ado, let us start with our first Machine Learning Algorithm.
+[Machine Learning Algorithms - Playing with Data]()
