@@ -143,4 +143,61 @@ We will discuss in details later. But here are few examples till date -
 
 There is a playlist of videos from [Simplilearn](https://www.youtube.com/watch?v=ukzFI9rgwfU&list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy). You can have a look at them. They have explained it in simple terms.
 
-So that was all an overview of things to come. Next, we will learn about the various algorithms under them.
+So that was all an overview of things to come. Next, we will learn about the Machine Learning workflow.
+We will start with a basic process flow and evolve as we progress. 
+
+<p align="center">
+  <img src="https://miro.medium.com/max/700/1*NS19lSaAj91ZC8b9l1yV_A.png">
+</p>
+
+So for starters lets say, Machine learning comprises of the following steps,
+* **Data Collection:** The very first and the most important step is to collect relevant data corresponding to our problem statement. Accurate data collection is essential to maintaining the integrity of our machine learning project. The data set can be collected from various sources such as a file, database, sensor and many other such sources. We can also use some free data sets which are present on the internet. [Kaggle](http://www.kaggle.com) and [UCI Machine learning Repository](https://archive.ics.uci.edu/ml/index.php) are the two most-used repositories for practicing Machine Learning models.
+
+* **Data Pre-Processing:** The next step requires you to understand the input features and the desired output. This is done with the help of **Exploratory Data Analysis(EDA)**. We will dwell into its details in due time. However, just know that EDA is the process of using statistical tools(such as graphs, measures of center and variatian) to investigate datasets in order to understand their importatant characteristics. 
+Well now you have an idea of what to do. But, the collected data cannot be used directly for performing the analysis process as there might be a lot of missing data, extremely large values, unorganized text data or noisy data. Taking care of all the inconsistencies, errors and missing data in our dataset and converting it to a small clean dataset is called as data pre-processing. Please note that the data is categorized as -**Numeric** (income, age), **Categorical** (gender, nationality) and **Ordinal** (low/medium/high).
+These are some of the basic pre — processing techniques that can be used to convert raw data:
+    * **Conversion of data:** As we know that Machine Learning models can only handle numeric features, hence categorical and ordinal data must  be somehow converted into numeric features.
+    * **Ignoring the missing values:** Whenever we encounter missing data in the data set then we can remove the row or column of data depending on our need. This method is known to be efficient but it shouldn’t be performed if there are a lot of missing values in the dataset.
+    * **Filling the missing values:** Whenever we encounter missing data in the data set then we can fill the missing data manually, most commonly the mean, median or highest frequency value is used.
+    * **Outliers detection:** There are some error data that might be present in our data set that deviates drastically from other observations in a data set. (Example: human weight = 800 Kg; due to mistyping of extra 0)
+    
+Here I would like to touch base on another important concept - **Feature Engineering**. The cleaned and processed data might not always provide you with the proper features needed to produce the desired output. Feature engineering is about creating new input features from your existing ones. Example - Let's say we already had a feature called **'num_schools'**, i.e. the number of schools within 5 miles of a property and **'median_school'**, i.e. the median quality score of those schools. However, we might suspect that what's really important is having many school options, but only if they are good. Well, to capture that interaction, we could simple create a new feature -
+     **'school_score' = 'num_schools' x 'median_school'** 
+     
+According to a survey in [Forbes](https://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says/#2ef9b7406f63), data scientists spend **80%** of their time on data preparation:
+<p align="center">
+  <img src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fgilpress%2Ffiles%2F2016%2F03%2FTime-1200x511.jpg">
+</p>
+     
+* **Model Training:** The pre-processed data is first divided into mainly two parts i.e. training and testing datasets in the train/test ratio of usually 70/30 or 80/20 for smaller datasets. Model training is the process by which a machine learning algorithm takes insights from the training dataset and learns specific parameters over the training period that will minimize the loss or how bad it performs on the training dataset. You can also train the classifier using training data set, tune the parameters using validation set and then test the performance of your classifier on unseen test data set. 
+
+<p align="center">
+  <img src="https://miro.medium.com/max/700/1*kpqurK-46RQxCllffLgM3w.png">
+</p>
+
+This is a good practice.
+    * **Training set:** The training set is the material through which the computer learns how to process information. Machine learning uses algorithms to perform the training part. A set of data used for learning, that is to fit the parameters of the classifier.
+    * **Validation set:** Cross-validation is primarily used in applied machine learning to estimate the skill of a machine learning model on unseen data. A set of unseen data is used from the training data to tune the parameters of a classifier.
+    * **Test set:** A set of unseen data used only to assess the performance of a fully-specified classifier.
+
+<p align="center">
+  <img src="https://miro.medium.com/max/700/1*CeALK-1lzIWNJ7wN9DStlw.png">
+</p>
+
+* **Model Evaluation:** After the model is trained, it is then evaluated, using some evaluation metric, on the test dataset, which it has never seen before. Hence, the model tries to perform on the test dataset using only the knowledge gained from the training dataset. Once this is done we can develop a confusion matrix, this tells us how well our model is trained. A confusion matrix has 4 parameters, which are **True positives**, **True Negatives**, **False Positives** and **False Negative**. We prefer that we get more values in the True negatives and True positives to get a more accurate model. 
+
+<p align="center">
+  <img src="https://miro.medium.com/max/386/1*GMlSubndVt3g7FmeQjpeMA.png">
+</p>
+
+The size of the Confusion matrix completely depends upon the number of classes.
+    * **True positives:** These are cases in which we predicted TRUE and our predicted output is correct.
+    * **True negatives:** We predicted FALSE and our predicted output is correct.
+    * **False positives:** We predicted TRUE, but the actual predicted output is FALSE.
+    * **False negatives:** We predicted FALSE, but the actual predicted output is TRUE.
+Some of the most common evaluation metrics are Accuracy score, F1 Score, Mean Absolute Error (MAE) and Mean Squared Error (MSE).
+
+* **Performance Improvement:** The performance of the model can further be improved on both the training and testing datasets using various techniques like, cross-validation, hyper-parameter tuning or by trying out multiple machine learning algorithms and using the one which performs the best or even better, by using ensembling methods which combine the results from multiple algorithms. The goal is to improve the accuracy and also looking at the confusion matrix to try to increase the number of true positives and true negatives.
+
+
+Without further ado, let us start with our first Machine Learning Algorithm.
